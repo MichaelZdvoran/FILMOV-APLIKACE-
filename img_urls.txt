@@ -1,0 +1,33 @@
+Seznam doporučených URL ke stažení originálních obrázků.
+Ulož je do složky img/ a ponech názvy přesně stejné, jak jsou níže.
+
+inception-cover.svg -> https://m.media-amazon.com/images/I/71niXI3lxlL._AC_UF894,1000_QL80_.jpg
+inception-poster.svg -> https://m.media-amazon.com/images/I/51nVQFCEpNL._AC_.jpg
+leo-dicaprio.svg -> https://upload.wikimedia.org/wikipedia/commons/2/20/Leonardo_DiCaprio_2014.jpg
+joseph-gordon-levitt.svg -> https://upload.wikimedia.org/wikipedia/commons/e/e4/Joseph_Gordon-Levitt_2013.jpg
+elliot-page.svg -> https://upload.wikimedia.org/wikipedia/commons/b/b8/Elliot_Page_2015.jpg
+darkknight-cover.svg -> https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_UF894,1000_QL80_.jpg
+darkknight-poster.svg -> https://m.media-amazon.com/images/I/51k0qa6qkFL._AC_.jpg
+christian-bale.svg -> https://upload.wikimedia.org/wikipedia/commons/8/89/Christian_Bale-7837.jpg
+heath-ledger.svg -> https://upload.wikimedia.org/wikipedia/commons/9/9c/Heath_Ledger_2006.jpg
+michael-caine.svg -> https://upload.wikimedia.org/wikipedia/commons/3/36/Michael_Caine_-_Viennale_2012.jpg
+avatar-cover.svg -> https://m.media-amazon.com/images/I/41kTVLeW1CL._AC_.jpg
+avatar-poster.svg -> https://m.media-amazon.com/images/I/81Q9o1WfXGL._AC_SL1500_.jpg
+sam-worthington.svg -> https://upload.wikimedia.org/wikipedia/commons/7/73/Sam_Worthington_2013.jpg
+zoe-saldana.svg -> https://upload.wikimedia.org/wikipedia/commons/3/30/Zoe_Saldana_Cannes_2014.jpg
+sigourney-weaver.svg -> https://upload.wikimedia.org/wikipedia/commons/8/8e/Sigourney_Weaver_by_Gage_Skidmore.jpg
+interstellar-cover.svg -> https://m.media-amazon.com/images/I/71niXI3lxlL._AC_UF894,1000_QL80_.jpg
+interstellar-poster.svg -> https://m.media-amazon.com/images/I/91kFYg4fX3L._SL1500_.jpg
+matthew-mcconaughey.svg -> https://upload.wikimedia.org/wikipedia/commons/8/8a/Matthew_McConaughey_by_Gage_Skidmore.jpg
+anne-hathaway.svg -> https://upload.wikimedia.org/wikipedia/commons/5/55/Anne_Hathaway_2018.jpg
+jessica-chastain.svg -> https://upload.wikimedia.org/wikipedia/commons/9/97/Jessica_Chastain_2019.jpg
+matrix-cover.svg -> https://m.media-amazon.com/images/I/51EG732BV3L.jpg
+matrix-poster.svg -> https://m.media-amazon.com/images/I/51vpnbwFHrL.jpg
+keanu-reeves.svg -> https://upload.wikimedia.org/wikipedia/commons/4/4b/Keanu_Reeves_2015.jpg
+laurence-fishburne.svg -> https://upload.wikimedia.org/wikipedia/commons/1/12/Laurence_Fishburne_2017.jpg
+carrie-anne-moss.svg -> https://upload.wikimedia.org/wikipedia/commons/7/77/Carrie-Anne_Moss_by_Gage_Skidmore.jpg
+gladiator-cover.svg -> https://m.media-amazon.com/images/I/51A6-5A8JGL.jpg
+gladiator-poster.svg -> https://m.media-amazon.com/images/I/51A6-5A8JGL.jpg
+russell-crowe.svg -> https://upload.wikimedia.org/wikipedia/commons/3/3d/Russell_Crowe_2012.jpg
+joaquin-phoenix.svg -> https://upload.wikimedia.org/wikipedia/commons/8/89/Joaquin_Phoenix_2019.jpg
+connie-nielsen.svg -> https://upload.wikimedia.org/wikipedia/commons/9/98/Connie_Nielsen_%2849723678552%29.jpg
